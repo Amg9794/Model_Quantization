@@ -1,0 +1,3 @@
+Quantize a neural network model to reduce model size and improve inference efficiency. This covers k-means quantization, quantization-aware training, linear quantization, and integer-only inference, while comparing the accuracy, latency, and compression trade-offs of different quantization methods.
+
+Implement activation-aware weight-only quantization for large language models. This lab pseudo quantization, salient weight channel protection, activation-aware scaling, scale-factor search, and 4-bit weight-only quantization to reduce LLM memory footprint while preserving model quality for edge deployment.
